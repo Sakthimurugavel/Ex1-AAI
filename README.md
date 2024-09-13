@@ -1,7 +1,7 @@
 <H3> Name : SAKTHIVEL M </H3>
 <H3>Register No.212222240088</H3>
 <H3> Experiment 1</H3>
-<H3>DATE:</H3>
+<H3>DATE:13-09-2024</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim :
